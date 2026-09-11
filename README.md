@@ -239,3 +239,6 @@ This repository serves as the official landing page for Internet Explorer 8. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Internet Explorer 8 today!**
+
+---
+**Last updated:** 2026-09-11 21:37:19 UTC
