@@ -241,4 +241,4 @@ This repository serves as the official landing page for Internet Explorer 8. The
 **Get the most recent version of Internet Explorer 8 today!**
 
 ---
-**Last updated:** 2026-10-04 12:06:23 UTC
+**Last updated:** 2026-10-04 17:23:51 UTC
